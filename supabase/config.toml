@@ -1,0 +1,8 @@
+[functions.image-search]
+verify_jwt = true
+
+[functions.import-words]
+verify_jwt = true
+
+[functions.generate-word-image]
+verify_jwt = true
